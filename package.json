@@ -1,0 +1,23 @@
+{
+  "name": "starterkit-js-dev-env",
+  "version": "1.0.0",
+  "description": "This is a JavaScript Starterkit project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoDeJesus/starterkit-js-dev-env.git"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Marco De Jesus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoDeJesus/starterkit-js-dev-env/issues"
+  },
+  "homepage": "https://github.com/MarcoDeJesus/starterkit-js-dev-env#readme"
+}
