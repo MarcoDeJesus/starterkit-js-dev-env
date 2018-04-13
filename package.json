@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "prestart": "node buildScripts/startMessage.js",
-    "start": "node buildScripts/srcServer.js"
+    "start": "node buildScripts/srcServer.js",
+    "security-check": "nsp check"
   },
   "repository": {
     "type": "git",
