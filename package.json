@@ -37,6 +37,7 @@
   },
   "homepage": "https://github.com/MarcoDeJesus/starterkit-js-dev-env#readme",
   "devDependencies": {
+    "cucumber": "4.2.1",
     "babel-cli": "6.16.0",
     "babel-core": "6.17.0",
     "babel-loader": "6.2.5",
